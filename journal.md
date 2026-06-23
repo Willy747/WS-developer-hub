@@ -14,3 +14,7 @@ Typing text and seeing it become something visual is still awesome.
 
 ---
 [← Back Home](README.md)
+
+## 2026-06-23
+Built my first Python project.
+
