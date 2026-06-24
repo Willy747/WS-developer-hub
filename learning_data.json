@@ -1,0 +1,10 @@
+{
+    "name": "Will",
+    "current_skill": "Python",
+    "hours_learning": 3,
+    "projects": [
+        "Developer Hub",
+        "Python Journal",
+        "Stats Program"
+    ]
+}

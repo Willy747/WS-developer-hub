@@ -18,3 +18,19 @@ Typing text and seeing it become something visual is still awesome.
 ## 2026-06-23
 Built my first Python project.
 
+
+
+
+## 2026-06-23
+
+### Learned
+adding a new section on my own
+
+### Difficulty
+2/10
+
+### Next Step
+how to invent google in 1 day
+
+### time_spent
+180

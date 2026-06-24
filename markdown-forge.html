@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Markdown Forge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="sidebar-container"></div>
+
+    <div class="content">
+
+        <h1>Markdown Forge</h1>
+
+        <p>
+            Paste Markdown below and get instant document stats.
+        </p>
+
+        <textarea id="markdown-input" placeholder="Paste your Markdown here..."></textarea>
+
+        <br>
+
+        <button id="analyze-markdown-btn">
+            Analyze Markdown
+        </button>
+
+        <div class="project-card" id="markdown-results">
+            <h2>Results</h2>
+
+            <p><strong>Words:</strong> <span id="word-count">0</span></p>
+            <p><strong>Headings:</strong> <span id="heading-count">0</span></p>
+            <p><strong>Links:</strong> <span id="link-count">0</span></p>
+            <p><strong>Code Blocks:</strong> <span id="code-block-count">0</span></p>
+            <p><strong>Estimated Reading Time:</strong> <span id="reading-time">0</span> min</p>
+        </div>
+
+    </div>
+
+    <script src="app.js"></script>
+    <script src="markdown-forge.js"></script>
+
+</body>
+
+</html>
